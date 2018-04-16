@@ -3,33 +3,19 @@
  <tr>
      <th>Year</th>
      <th>players</th>
-     <th>games</th>
+     <th>wins</th>
  </tr>
  <tr>
-     <td>2013</td>
-     <td rowspan=2>1000</td>
-     <td rowspan=2>100</td>
+     <td>2017</td>
+     <td >1000</td>
+     <td >100</td>
  </tr>
- <tr>
-     <td>2014</td>
+
    
  </tr>
  <tr>
-     <td>2015</td>
-     <td rowspan=2>Nikola</td>
-     <td rowspan=2>100</td>
- </tr>
- <tr>
-     <td>2016</td>
-     
- </tr>
-     <tr>
-         <td>2017</td>
-         <td rowspan=2>John</td>
-        <td rowspan=2>80</td>
-         </tr>
-     <tr>    
      <td>2018</td>
-     </tr>
-         
+     <td >Nikola</td>
+     <td >100</td>
+ </tr>
  </table>
